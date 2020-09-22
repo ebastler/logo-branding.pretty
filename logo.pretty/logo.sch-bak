@@ -1,0 +1,94 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 1500 1000 0    50   Input ~ 0
+ring
+Text GLabel 1500 1100 0    50   Input ~ 0
+e
+Text GLabel 1500 1200 0    50   Input ~ 0
+1
+Text GLabel 1500 1300 0    50   Input ~ 0
+2
+Text GLabel 1500 1400 0    50   Input ~ 0
+3
+Text GLabel 1500 1500 0    50   Input ~ 0
+4
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 5F4A40AF
+P 1600 1000
+F 0 "H1" V 1554 1150 50  0000 L CNN
+F 1 "MountingHole_Pad" V 1645 1150 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 1600 1000 50  0001 C CNN
+F 3 "~" H 1600 1000 50  0001 C CNN
+	1    1600 1000
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 5F4A4EE3
+P 1600 1100
+F 0 "H2" V 1554 1250 50  0000 L CNN
+F 1 "MountingHole_Pad" V 1645 1250 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 1600 1100 50  0001 C CNN
+F 3 "~" H 1600 1100 50  0001 C CNN
+	1    1600 1100
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 5F4A5218
+P 1600 1200
+F 0 "H3" V 1554 1350 50  0000 L CNN
+F 1 "MountingHole_Pad" V 1645 1350 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 1600 1200 50  0001 C CNN
+F 3 "~" H 1600 1200 50  0001 C CNN
+	1    1600 1200
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 5F4A5501
+P 1600 1300
+F 0 "H4" V 1554 1450 50  0000 L CNN
+F 1 "MountingHole_Pad" V 1645 1450 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 1600 1300 50  0001 C CNN
+F 3 "~" H 1600 1300 50  0001 C CNN
+	1    1600 1300
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H5
+U 1 1 5F4A587B
+P 1600 1400
+F 0 "H5" V 1554 1550 50  0000 L CNN
+F 1 "MountingHole_Pad" V 1645 1550 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 1600 1400 50  0001 C CNN
+F 3 "~" H 1600 1400 50  0001 C CNN
+	1    1600 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H6
+U 1 1 5F4A5B0E
+P 1600 1500
+F 0 "H6" V 1554 1650 50  0000 L CNN
+F 1 "MountingHole_Pad" V 1645 1650 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 1600 1500 50  0001 C CNN
+F 3 "~" H 1600 1500 50  0001 C CNN
+	1    1600 1500
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC
