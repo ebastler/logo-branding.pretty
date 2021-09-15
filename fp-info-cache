@@ -1,4 +1,4 @@
-19706494303622106
+19711200607021830
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -49780,6 +49780,13 @@ Diode_SMD
 Diode_Bridge_Diotec_SO-DIL-Slim
 SMD diode bridge Diotec SO-DIL Slim, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf
 DFS SO-DIL Slim
+0
+4
+4
+Diode_SMD
+Diode_Bridge_OnSemi_SDIP-4L
+SMD diode bridge OnSemi SDIP-4L, see https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf
+OnSemi Diode Bridge SDIP-4L
 0
 4
 4
